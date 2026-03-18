@@ -1,0 +1,7 @@
+*.vcd
+*.o
+*.exe
+d_latch_test
+wave
+wave.vcd
+*.log
